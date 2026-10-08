@@ -226,3 +226,9 @@ data/processed/*
 
 data/annotations/*
 !data/annotations/README.md
+
+data/dataset/images/*
+!data/dataset/images/README.md
+
+data/dataset/labels/*
+!data/dataset/labels/README.md
